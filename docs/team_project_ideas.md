@@ -10,9 +10,9 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | teammate name | teammate name | teammate name | teammate name | teammate name | teammate name |
+| Project Idea | Description | Peter | Yun | Mauro | Swastik | teammate name | teammate name |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | | | |
-| Second idea | Description | | | | | | |
+| [Deliver app](https://rviewer.io/app/developers/challenges/ggHVvFSDfHxc1UBaGHW9) | Open link to view description | | | | | | |
+| [Memory game](https://rviewer.io/app/developers/challenges/3kvn5yKhfuM9bNZOg7SX) | Open link to view description | __X__ | | | | | |
 | ... | Description | | | | | | |
 | Last idea | Description | | | | | | |
