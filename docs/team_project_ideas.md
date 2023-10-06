@@ -14,5 +14,7 @@ you like the best.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Deliver app](https://rviewer.io/app/developers/challenges/ggHVvFSDfHxc1UBaGHW9) | Open link to view description | | | | | | |
 | [Memory game](https://rviewer.io/app/developers/challenges/3kvn5yKhfuM9bNZOg7SX) | Open link to view description | __X__ | | | | | |
+| [Gallery Tracking Optimizer](https://go.rviewer.io/dev-gallery-tracking-optimizer/) | Open link to view description | | | | __X__ | | |
+| [Unsafebox API](https://go.rviewer.io/unsafebox-api/) | Open link to view description | | | | __X__ | | |
 | ... | Description | | | | | | |
 | Last idea | Description | | | | | | |
